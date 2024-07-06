@@ -64,6 +64,7 @@ Task 5: Adding Initial System Messages
 Task 6: Preparing Submission
 A GitHub repository for the project containing all the project files.
 Loom Video representing the overall approach. Loom Link
+https://www.loom.com/share/0c53bcc5b2744f29a04684c1c0a5b379?sid=7b248cb7-54a6-4531-812c-f3bd23f903cc
 
 Issues Faced
 Permission Denied Error: Check if you have provided project_id rather than project name in your code or if the service account is activated.
